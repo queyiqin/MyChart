@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="pie_0">#7DE0B8</color>
+
+    <color name="pie_1_0">#64B1FE</color>
+    <color name="pie_1_1">#FF8E3F</color>
+
+
+    <color name="pie_2_0">#64B1FE</color>
+    <color name="pie_2_1">#7DE0B8</color>
+    <color name="pie_2_2">#FFD647</color>
+
+    <color name="pie_3_0">#64B1FE</color>
+    <color name="pie_3_1">#7DE0B8</color>
+    <color name="pie_3_2">#FFD647</color>
+    <color name="pie_3_3">#FF8E3F</color>
+
+    <color name="pie_4_0">#64B1FE</color>
+    <color name="pie_4_1">#FF8E3F</color>
+    <color name="pie_4_2">#7DE0B8</color>
+    <color name="pie_4_3">#FFD647</color>
+    <color name="pie_4_4">#FF6B7D</color>
+
+   <color name="pie_5_0">#64B1FE</color>
+   <color name="pie_5_1">#7DE0B8</color>
+   <color name="pie_5_2">#FFD647</color>
+   <color name="pie_5_3">#FF8E3F</color>
+   <color name="pie_5_4">#2088F1</color>
+   <color name="pie_5_5">#FF6B7D</color>
+
+
+
+
+
+</resources>
